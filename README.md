@@ -1,8 +1,8 @@
-<h2 align="left">"Hi..👋There..! My name is Durga Prasad Galla, and I'm an aspiring Data Science Student from India "</h2>
+<h2 align="left">"Hi..👋There..! My name is Durga Prasad Galla, and I'm an aspiring AI&ML Student from India "</h2>
 
 ###
 
-<p align="left">🔭 I’m currently working on small data science projects to improve my skills.<br><br>🌱 I’m getting started and learning the fundamentals of Python and data manipulation.<br><br>👯 I’m looking to collaborate with others who are also starting their journey in data science.<br><br>🤝 I’m looking for help with understanding data visualization techniques.<br><br>💬 Ask me about basic Python programming and data analysis.<br><br>📫 How to reach me: suryagadi385@gmail.com<br><br>⚡ Fun fact: I'm excited to dive deeper into the world of data science and explore its endless possibilities!</p>
+<p align="left">🔭 I’m currently working on small AI projects to improve my skills.<br><br>🌱 I’m getting started and learning the fundamentals of Python and data manipulation.<br><br>👯 I’m looking to collaborate with others who are also starting their journey in Machine Learning.<br><br>🤝 I’m looking for help with understanding data visualization techniques.<br><br>💬 Ask me about basic Python programming and data analysis.<br><br>📫 How to reach me: durgaprasadgalla123@gmail.com<br><br>⚡ Fun fact: I'm excited to dive deeper into the world of data science and explore its endless possibilities!</p>
 
 ###
 
